@@ -18,7 +18,7 @@
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-    Step 1: git clone https://github.com/SarvarKh/to-do-list.git
+    Step 1: git clone https://github.com/SarvarKh/Hello-Microverse.git
     
     Step 2: open live-server
 
